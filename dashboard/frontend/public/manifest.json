@@ -1,0 +1,17 @@
+{
+  "name": "Hunter's Edge Dashboard",
+  "short_name": "HE Dashboard",
+  "description": "Hunter's Edge Business Efficiency Dashboard",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0F3D1D",
+  "theme_color": "#2F6D3A",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' rx='32' fill='%232F6D3A'/><text x='50%' y='55%' font-size='120' text-anchor='middle' dominant-baseline='middle'>🦅</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
